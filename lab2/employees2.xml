@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees [
+    <!ELEMENT employees (employee+)>
+    <!ELEMENT employee (name,phones,addresses,email)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT phones (phone+)>
+    <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT addresses (address+)>
+    <!ELEMENT address (Street,BuildingNumber,Region,City,Country)>
+    <!ELEMENT Street (#PCDATA)>
+    <!ELEMENT BuildingNumber (#PCDATA)>
+    <!ELEMENT City (#PCDATA)>
+    <!ELEMENT Country (#PCDATA)>
+    <!ELEMENT Region (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ATTLIST phone Type (home | mobile | work) "mobile">
+]>
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<employees>
+    <employee>
+        <name>Basmala</name>
+        <phones>
+            <phone Type="home">035924630</phone>
+            <phone Type="work">01220078930</phone>
+            <phone Type="mobile">01205974265</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>Menothis</Street>
+                <BuildingNumber>3</BuildingNumber>
+                <Region>Ibrahmiyah</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </address>
+            <address>
+                <Street>Sanad</Street>
+                <BuildingNumber>39</BuildingNumber>
+                <Region>Camp shizar</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </address>
+        </addresses>
+        <email>basmala.mohamed.zain@gmail.com</email>
+    </employee>
+    <employee>
+        <name>Nouran</name>
+        <phones>
+            <phone Type="home">035924630</phone>
+            <phone Type="work">01220078930</phone>
+            <phone Type="mobile">01205974265</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>Menothis</Street>
+                <BuildingNumber>3</BuildingNumber>
+                <Region>Ibrahmiyah</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </address>
+            <address>
+                <Street>Sanad</Street>
+                <BuildingNumber>39</BuildingNumber>
+                <Region>Camp shizar</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </address>
+        </addresses>
+        <email>nouranzain@gmail.com</email>
+    </employee>
+</employees>

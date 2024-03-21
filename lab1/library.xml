@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lib.css"?>
+
+<Library location="Alexandria" description="A vast collection of knowledge" librarian="Yasmine Qasim">
+
+    <books>
+
+        <book title="Great Expectations" ISBN="9780141439563">
+            <author>
+                <name>
+                    <fname>Charles</fname>
+                    <lname>Dickens</lname>
+                </name>
+                <age>58</age>
+            </author>
+            <preface>A bildungsroman following the life of orphan Pip</preface>
+            <parts>
+                <part no='1' title="Part 1: Pip's Childhood">
+                    <chapters>
+                        <chapter title="Chapter 1: The Convict">
+                            <summary>Young Pip encounters an escaped convict in a marshland.</summary>
+                            <sections>
+                                <section title="Section 1: Fear and Guilt">
+                                    <p>Pip is frightened by the convict and steals food for him.</p>
+                                    <p>He experiences guilt and anxiety over his actions.</p>
+                                </section>
+                                <section title="Section 2: Magwitch's Secret">
+                                    <p>The convict, Abel Magwitch, reveals himself as Pip grows older.</p>
+                                    <p>His secret connection to Pip's life unfolds, altering his fate.</p>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <chapter title="Chapter 2: Miss Havisham's House">
+                            <summary>Pip encounters the enigmatic Miss Havisham and her ward, Estella.</summary>
+                            <sections>
+                                <section title="Section 1: A Strange Invitation">
+                                    <p>Pip receives an unexpected invitation to visit Miss Havisham's decaying mansion.</p>
+                                    <p>He is mesmerized by the eccentricities of the house and its inhabitants.</p>
+                                </section>
+                                <section title="Section 2: The Heart of Sorrow">
+                                    <p>Pip witnesses the tragic tableau of Miss Havisham, frozen in time.</p>
+                                    <p>Estella's beauty and disdain leave a profound impact on Pip's impressionable mind.</p>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+                <part no='2' title="Part 2: Pip's Ascent">
+                    <chapters>
+                        <chapter title="Chapter 3: London Bound">
+                            <summary>Pip moves to London to pursue his newfound expectations.</summary>
+                            <sections>
+                                <section title="Section 1: Urban Realities">
+                                    <p>Pip experiences the bustling energy and harsh realities of London.</p>
+                                    <p>He grapples with his transformation and aspirations in the city.</p>
+                                </section>
+                                <section title="Section 2: New Acquaintances">
+                                    <p>Pip encounters new characters who shape his journey, including the enigmatic lawyer Jaggers.</p>
+                                    <p>He navigates the complexities of society and class in his quest for self-identity.</p>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <chapter title="Chapter 4: Reunion and Revelation">
+                            <summary>Pip's past and present converge as secrets are unearthed.</summary>
+                            <sections>
+                                <section title="Section 1: Return to the Past">
+                                    <p>Pip revisits his childhood home and encounters familiar faces from his past.</p>
+                                    <p>Memories and revelations surface, reshaping his understanding of himself and others.</p>
+                                </section>
+                                <section title="Section 2: The Truth Unveiled">
+                                    <p>Pip confronts the consequences of his desires and illusions.</p>
+                                    <p>The truth behind his expectations and the source of his fortune are finally revealed.</p>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+
+        <book title="A Tale of Two Cities" ISBN="9781853260391">
+            <author>
+                <name>
+                    <fname>Charles</fname>
+                    <lname>Dickens</lname>
+                </name>
+                <age>58</age>
+            </author>
+            <preface>A historical novel set in London and Paris during the French Revolution</preface>
+            <parts>
+                <part no='1' title="Part 1: Recalled to Life">
+                    <chapters>
+                        <chapter title="Chapter 1: The Mail">
+                            <summary>The story begins with Jarvis Lorry's journey from London to Dover.</summary>
+                            <sections>
+                                <section title="Section 1: A Mysterious Message">
+                                    <p>Lorry receives a cryptic message regarding the fate of a young woman, Lucie Manette.</p>
+                                    <p>He reflects on the significance of the past and its impact on the present.</p>
+                                </section>
+                                <section title="Section 2: The Resurrectionist">
+                                    <p>Lorry encounters the enigmatic Dr. Manette, a former prisoner of the Bastille.</p>
+                                    <p>Manette's traumatic past is shrouded in mystery, hinting at a deeper connection to the unfolding events.</p>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <chapter title="Chapter 2: The Golden Thread">
+                            <summary>Lucie Manette's life intersects with the fate of Charles Darnay.</summary>
+                            <sections>
+                                <section title="Section 1: A Tale of Two Cities">
+                                    <p>Darnay's arrival in England sparks intrigue and apprehension among those familiar with his past.</p>
+                                    <p>Lucie's compassion and kindness contrast with the turmoil surrounding her family's history.</p>
+                                </section>
+                                <section title="Section 2: The Ever-Present Shadow">
+                                    <p>The specter of revolution looms over both London and Paris.</p>
+                                    <p>As tensions rise, personal and political destinies become intertwined in the tumultuous era.</p>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+                <part no='2' title="Part 2: The Sea Rises">
+                    <chapters>
+                        <chapter title="Chapter 3: The Storm">
+                            <summary>The storm of revolution intensifies, threatening lives and livelihoods.</summary>
+                            <sections>
+                                <section title="Section 1: The Gathering Tempest">
+                                    <p>The oppressed masses of Paris rise against the aristocracy, igniting the flames of rebellion.</p>
+                                    <p>Darnay's past returns to haunt him as he becomes embroiled in the conflict.</p>
+                                </section>
+                                <section title="Section 2: Sacrifice and Survival">
+                                    <p>Amidst chaos and violence, acts of heroism and sacrifice emerge.</p>
+                                    <p>Characters must confront their deepest fears and desires as the revolution consumes all in its path.</p>
+                                </section>
+                            </sections>
+                        </chapter>
+                        <chapter title="Chapter 4: The Knitting Women">
+                            <summary>The women of revolutionary Paris weave the fabric of destiny with their relentless determination.</summary>
+                            <sections>
+                                <section title="Section 1: Threads of Fate">
+                                    <p>The fate of individuals and nations hangs in the balance as the revolution reaches its zenith.</p>
+                                    <p>Characters are tested by the tumultuous events unfolding around them.</p>
+                                </section>
+                                <section title="Section 2: Binding the Future">
+                                    <p>The actions of ordinary people shape the course of history, binding together past, present, and future.</p>
+                                    <p>The echoes of their choices reverberate through the ages, reminding us of the enduring power of hope and resilience.</p>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+
+    </books>
+
+</Library>

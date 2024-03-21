@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employees.css"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/basmala/open%20source/xml/lab1/employeeSchema.xsd">
+	<employee>
+		<name>Basmala</name>
+		<phones>
+			<phone Type="home">035924630</phone>
+			<phone Type="work">01220078930</phone>
+			<phone Type="mobile">01205974265</phone>
+		</phones>
+		<addresses>
+			<address>
+				<Street>Menothis</Street>
+				<BuildingNumber>3</BuildingNumber>
+				<Region>Ibrahmiyah</Region>
+				<City>Alexandria</City>
+				<Country>Egypt</Country>
+			</address>
+			<address>
+				<Street>Sanad</Street>
+				<BuildingNumber>39</BuildingNumber>
+				<Region>Camp shizar</Region>
+				<City>Alexandria</City>
+				<Country>Egypt</Country>
+			</address>
+		</addresses>
+		<email>basmala.mohamed.zain@gmail.com</email>
+	</employee>
+	<employee>
+		<name>Nouran</name>
+		<phones>
+			<phone Type="home">035924630</phone>
+			<phone Type="work">01220078930</phone>
+			<phone Type="mobile">01205974265</phone>
+		</phones>
+		<addresses>
+			<address>
+				<Street>Menothis</Street>
+				<BuildingNumber>3</BuildingNumber>
+				<Region>Ibrahmiyah</Region>
+				<City>Alexandria</City>
+				<Country>Egypt</Country>
+			</address>
+			<address>
+				<Street>Sanad</Street>
+				<BuildingNumber>39</BuildingNumber>
+				<Region>Camp shizar</Region>
+				<City>Alexandria</City>
+				<Country>Egypt</Country>
+			</address>
+		</addresses>
+		<email>nouranzain@gmail.com</email>
+	</employee>
+</employees>
